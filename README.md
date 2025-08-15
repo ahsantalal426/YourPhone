@@ -1,4 +1,4 @@
-# YourPhone# 📱 YourPhone
+ 📱 YourPhone
 
 **YourPhone** is a responsive and modern mobile phone e-commerce website built using **HTML**, **Bootstrap 5**, minimal **CSS**, and **JavaScript**.  
 It offers an attractive UI with gradient colors, hover effects, animations, and smooth navigation for an enhanced shopping experience.
